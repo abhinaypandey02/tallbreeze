@@ -2,7 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 
 const metaData={
-  title:'Tall Breeze',
+  title:'TALL BREEZE',
   description:'reach heights with ease',
   keywords:'web, webdevelopment, website, digital, marketing, tallbreeze, tall, breeze',
   url:'https://tallbreeze.com/',
